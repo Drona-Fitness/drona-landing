@@ -440,14 +440,14 @@ textarea {
   padding: 8px 16px;
   color: var(--white);
 }
-
+/* 
 .site-navigation ul li a:hover {
   color: var(--theme-color2);
-}
+} */
 
-.site-header.sticky-header .site-navigation ul li a:hover {
+/* .site-header.sticky-header .site-navigation ul li a:hover {
   color: var(--theme-color2);
-}
+} */
 
 .site-mobile-header {
   position: fixed;
